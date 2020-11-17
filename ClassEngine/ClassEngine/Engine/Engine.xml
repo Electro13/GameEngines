@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<people>
+  <person id = "1">
+    <name>
+      <GameTitle>Regicide</GameTitle>
+      <groupMembers>Michael Wilson, Gavin Osbourne, Brian Araneta</groupMembers>
+      <Engine> Unity Engine </Engine>
+      <Roles> Michael: Manager, Networking Programmer (Implementing multiplayer mechanics with Unity Photon plugin), Gavin: Movement / AI Programmer (Player AI, Boss AI), Brian: Level Designer / Game Designer</Roles>
+    </name>
+  </person>
+  <person id = "2" />
+</people>

@@ -1,0 +1,2 @@
+[INFO]:Creating Game Scene in: GameScene.cpp on line: 14
+[INFO]:Everything worked! in: CoreEngine.cpp on line: 61
